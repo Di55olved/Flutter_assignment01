@@ -1,4 +1,4 @@
-# cse_450_assignment01
+# assignment01
 
 A new Flutter project.
 
